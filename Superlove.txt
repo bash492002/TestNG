@@ -1,1 +1,3 @@
 this is learning git for beginner
+
+it is fun learning to use git bash
